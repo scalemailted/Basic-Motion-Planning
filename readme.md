@@ -15,6 +15,7 @@ This project covers fundamental concepts for motion planning orientation and tra
 ## Approach
 
 TODO add explanation about the approach taken in a general and abstract way
+
 ---
 
 ## Key Features
