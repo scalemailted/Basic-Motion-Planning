@@ -13,15 +13,18 @@ This project covers fundamental concepts for motion planning orientation and tra
 ---
 
 ## Approach
+
 TODO add explanation about the approach taken in a general and abstract way
 ---
 
 ## Key Features
+
 TODO list items that covered in this project
 
 ---
 
 ## Algorithmic Overview:
+
 TODO detail the algorithm breakdown in plain english way for code
 ---
 
