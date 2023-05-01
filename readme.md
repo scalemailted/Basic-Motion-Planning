@@ -122,9 +122,7 @@ The orientation motion planning algorithm described above provides a way to guid
         >*contains associated Python scripts from the scene*
         - 📄 dstar_path.py
             >*dstar path planning algorithm*
-        - 📄 motion_planner.py
-            >*motion planning algorithm with targets and wheeled robots*
-        - 📄 robot1.py
-            >*policy for avoiding other dynamic obstacles*
-        - 📄 robot2.py
-            >*policy for avoiding other dynamic obstacles*
+        - 📄 simple_motion_planner.py
+            >*motion planning algorithm with no regard to orientation*
+        - 📄 orientation_motion_planner.py
+            >*motion planning algorithm with forward orientation*
