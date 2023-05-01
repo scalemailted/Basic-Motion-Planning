@@ -3,12 +3,12 @@
 ---
 
 ## Project Objectives
-TODO add explanation about project objectives
+
 
 ---
 
 ## Motivations
-TODO add explanation about motivations concepts
+This project covers fundamental concepts for motion planning orientation and trajectory. It bridges the gap from path planning to motion planning, beginning with C-space and its applications. The use of special orthogonal groups, including `SO(3)`, is explored to compare orientations and differentiate motion planning from path planning. Homeomorphism is introduced to explain the mapping between geometric space and C-space. Finally, a practical, applicable examples of motion planning is provided in CoppeliaSim.
 
 ---
 
@@ -29,12 +29,12 @@ TODO detail the algorithm breakdown in plain english way for code
 
 ### *CoppeliaSim* 
 
-**basic-motion-planning.tt**
+**simple-motion-planning.ttt**
 > Tbd
 
 ![Demo: CoppeliaSim](./assets/coppeliasim.gif)
 
-**basic-motion-planning-orientation.tt**
+**orientation-motion-planning.ttt**
 > Tbd
 
 ![Demo: CoppeliaSim](./assets/coppeliasim.gif)
