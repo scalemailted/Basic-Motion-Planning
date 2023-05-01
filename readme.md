@@ -116,7 +116,8 @@ The orientation motion planning algorithm described above provides a way to guid
 - 📁 **coppeliasim/**
     + 📁 **scenes/**
         >*contains CoppeliaSim scenes (.tt)*
-        - 📄 multiagent-avoidance.tt
+        - 📄 simple-motion-planning.ttt
+        - 📄 orientation-motion-planning.ttt
     + 📁 **scripts/**
         >*contains associated Python scripts from the scene*
         - 📄 dstar_path.py
