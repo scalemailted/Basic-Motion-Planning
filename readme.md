@@ -42,6 +42,30 @@ This component uses the mathematical concepts in practice to implement a motion 
 ## Algorithmic Overview:
 
 ### Simple Motion Planning
+The main steps of the algorithm can be summarized as follows:
+
+1. **Import necessary libraries:** The script imports the required libraries, such as numpy, for handling mathematical operations.
+
+2. **Set maximum velocity and acceleration:** The maximum velocity and acceleration for the quadcopter are defined as global variables.
+
+3. **Define the `sysCall_thread()` function:** This function is responsible for executing the main algorithm, including reading the path data, updating the quadcopter's position, and controlling the simulation time step.
+
+    1. **Enable automatic thread switching:** This ensures that the simulation can continue to run while the script is executing.
+
+    2. **Get the goal object:** The target object (goal) in the simulation is retrieved.
+
+    3. **Calculate the time step:** The simulation time step is multiplied by 2.0 and stored in the dt variable.
+
+    4. **Main loop:** The algorithm runs in a continuous loop, performing the following steps:
+
+        1. **Retrieve the path handle:** The path handle is fetched from a signal sent by another script, and the signal is cleared.
+
+        2. **Read path data:** The path data is read from the path handle, using the custom data block 'PATH', and unpacked into a list.
+
+
+### Orientation Motion Planning
+
+### Simple Motion Planning
 
 ### Orientation Motion Planning
 
