@@ -3,7 +3,11 @@
 ---
 
 ## Project Objectives
-What is a C-Space? What is it for a car? What is `SO(3)`? hoe to compute distances in `SO(3)`? What is homeomorphism? What are some examples for homemorphic and non-homemorphic subspaces? Follow a geometric path from D* algorithm from [Dstar-Pathfinding-Simulations](https://github.com/scalemailted/dStar-Pathfinding-Simuations) project using a quadcopter (UAV).
+- What is a C-Space? 
+- What is it for a car? What is `SO(3)`? 
+- how to compute distances in `SO(3)`? 
+- What is homeomorphism? What are some examples for homemorphic and non-homemorphic subspaces? 
+- Follow a geometric path from D* algorithm from [Dstar-Pathfinding-Simulations](https://github.com/scalemailted/dStar-Pathfinding-Simuations) project using a quadcopter (UAV).
 
 ---
 
