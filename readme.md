@@ -16,10 +16,10 @@ This project covers fundamental concepts for motion planning orientation and tra
 
 This motion planning project is broken into two components: theoretical and applicable.
 
-## Theoretical Motion Planning
+### Theoretical Motion Planning
 This component focuses on providing a student guide that details the fundamental and foundational concepts requiref to understand what motion planning is, how it differs from path planning, and eastablish the necessary a mathematical models to realize it. 
 
-## Applicable Motion Planning
+### Applicable Motion Planning
 This component uses the mathematical concepts in practice to implement a motion planning trajectory for a quadcopter in both a very simple case, and where orientation matters. 
 
 ---
