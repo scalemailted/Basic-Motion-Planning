@@ -115,7 +115,7 @@ The orientation motion planning algorithm described above provides a way to guid
     >*contains all images in readme documentation*
 - 📁 **coppeliasim/**
     + 📁 **scenes/**
-        >*contains CoppeliaSim scenes (.tt)*
+        >*contains CoppeliaSim scenes*
         - 📄 simple-motion-planning.ttt
         - 📄 orientation-motion-planning.ttt
     + 📁 **scripts/**
