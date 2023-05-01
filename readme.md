@@ -103,14 +103,14 @@ The orientation motion planning algorithm described above provides a way to guid
 ### *CoppeliaSim* 
 
 **simple-motion-planning.ttt**
-> Tbd
+> Motion Planning with no regard to orientation
 
-![Demo: CoppeliaSim](./assets/coppeliasim.gif)
+![Demo: CoppeliaSim](./assets/simple-motion-planning.gif)
 
 **orientation-motion-planning.ttt**
-> Tbd
+> Motion Planning with forward orientation
 
-![Demo: CoppeliaSim](./assets/coppeliasim.gif)
+![Demo: CoppeliaSim](./assets/orientation-motion-planning.gif)
 
 ---
 
