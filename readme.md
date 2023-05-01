@@ -41,7 +41,11 @@ This component uses the mathematical concepts in practice to implement a motion 
 
 ## Algorithmic Overview:
 
-TODO detail the algorithm breakdown in plain english way for code
+### Simple Motion Planning
+
+### Orientation Motion Planning
+
+
 ---
 
 ## Implementation: 
