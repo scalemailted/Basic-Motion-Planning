@@ -26,7 +26,16 @@ This component uses the mathematical concepts in practice to implement a motion 
 
 ## Key Features
 
-TODO list items that covered in this project
+- Theoretical
+    + C-space
+    + SO(3)
+    + Quaternion
+    + Homeomorphism
+    
+- Applicable
+    + Trajectory Considerations
+    + Orientation Considerations
+    + CoppeliaSim Robotic Simulator
 
 ---
 
