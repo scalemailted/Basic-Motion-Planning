@@ -100,6 +100,9 @@ The orientation motion planning algorithm described above provides a way to guid
 
 ## Implementation: 
 
+### *Theory*
+- [**Basics of Motion Planning: Student Guide** *PDF*](https://github.com/scalemailted/Basic-Motion-Planning/blob/main/documents/pdf/basics-motion-planning.pdf)
+
 ### *CoppeliaSim* 
 
 **simple-motion-planning.ttt**
